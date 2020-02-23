@@ -41,6 +41,14 @@ Computer Vision is one of the hottest topics in artificial intelligence. It is m
 -------------
 • Clustering is the most common unsupervised learning technique. It is used for exploratory data analysis to find hidden patterns. It is used to grope the data for similar type data. For example gene sequence analysis, market research, and object recognition.
 
+ Neural networks :
+------------------
+• Neural networks are composed of simple elements operating in parallel. These
+elements are inspired by biological nervous systems. As in nature, the network
+function is determined largely by the connections between elements. We can
+train a neural network to perform a particular function by adjusting the values
+of the connections (weights) between elements.
+
  Association:
 ---------------
 • Association is used to find the patterns.
