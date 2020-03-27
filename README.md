@@ -49,9 +49,9 @@ function is determined largely by the connections between elements. We can
 train a neural network to perform a particular function by adjusting the values
 of the connections (weights) between elements.
 
-![nnn]https://github.com/sujitmandal/Neural-Network/blob/master/Data/nnet.jpg
+![](https://github.com/sujitmandal/Neural-Network/blob/master/Data/nnet.jpg)
 
-![nnn]https://github.com/sujitmandal/Neural-Network/blob/master/Data/OH3gI.png
+![](https://github.com/sujitmandal/Neural-Network/blob/master/Data/OH3gI.png)
 
  Association:
 ---------------
