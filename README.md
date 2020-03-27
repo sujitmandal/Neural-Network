@@ -49,7 +49,12 @@ function is determined largely by the connections between elements. We can
 train a neural network to perform a particular function by adjusting the values
 of the connections (weights) between elements.
 
+ Multi Layer Neural Networks Architecture :
+--------------------------------------------
 ![](https://github.com/sujitmandal/Neural-Network/blob/master/Data/nnet.jpg)
+
+ Multi Layer Feed Forward Neural Networks Architecture :
+--------------------------------------------------------
 
 ![](https://github.com/sujitmandal/Neural-Network/blob/master/Data/OH3gI.png)
 
@@ -88,6 +93,20 @@ of the connections (weights) between elements.
  Method:
 ---------
 1. Multi-layer Perceptron (MLP)
+
+2. KNeighborsClassifier(KNN)
+
+ Output:
+---------
+1.Multi-layer Perceptron (MLP):
+-------------------------------
+  ![confusion matrix ](https://github.com/sujitmandal/Neural-Network/blob/master/Output/Multi-layer%20Perceptron%20(MLP)/irisWithOutNormalization.png)
+  
+2.KNeighborsClassifier(KNN):
+----------------------------
+
+   ![confusion matrix ](https://github.com/sujitmandal/Neural-Network/blob/master/Output/KNeighborsClassifier/irisWithoutNormalization.png)
+
 
  Requirement’s:
 ----------------
