@@ -146,6 +146,8 @@ Download https://code.visualstudio.com/Download
 
  Installing the required package’s:
 -------------------------------------
+• conda install -c conda-forge opencv=4.1.0
+
 • pip install opencv-python
 
 • pip install scikit-learn
